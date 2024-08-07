@@ -1,7 +1,7 @@
 # 4) Faça um programa que leia 3 números e exiba:
 # a) O maior número;
 # b) O menor número; 
-# c) O  Anúmero do meio
+# c) O número do meio
  
 n2=float(input("Digite o numero B: "))
 n1=float(input("Digite o numero A: "))
